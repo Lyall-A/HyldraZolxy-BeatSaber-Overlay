@@ -10,7 +10,7 @@ export namespace Globals {
     }
 
     export const URI_NAV_SEARCH = window.location.search;
-    export const SCORESABER_API_URL = "https://api.cors.lol/?url=https://scoresaber.com/api";
+    export const SCORESABER_API_URL = "https://proxy.lyall.lol/?url=https://scoresaber.com/api";
     export const BEATSAVER_API_URL = "https://api.beatsaver.com";
     export const MS_TIMER = 100;
 

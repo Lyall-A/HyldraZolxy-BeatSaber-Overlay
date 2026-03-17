@@ -10,7 +10,7 @@ export var Globals;
         E_MODULES["SETUP"] = "setup";
     })(E_MODULES = Globals.E_MODULES || (Globals.E_MODULES = {}));
     Globals.URI_NAV_SEARCH = window.location.search;
-    Globals.SCORESABER_API_URL = "https://api.cors.lol/?url=https://scoresaber.com/api";
+    Globals.SCORESABER_API_URL = "https://proxy.lyall.lol/?url=https://scoresaber.com/api";
     Globals.BEATSAVER_API_URL = "https://api.beatsaver.com";
     Globals.MS_TIMER = 100;
     Globals.DISPLAY_POSITION = [
