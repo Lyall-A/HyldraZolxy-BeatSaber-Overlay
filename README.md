@@ -4,8 +4,8 @@
 <hr />
 
 <div align="center">
-   <a href="https://overlay.hyldrazolxy.fr">
-      <img src="https://overlay.hyldrazolxy.fr/preview/Overlay_BS_New_Light.gif" alt="liveDemo" />
+   <a href="https://bs-overlay.lyall.lol">
+      <img src="https://bs-overlay.lyall.lol/preview/Overlay_BS_New_Light.gif" alt="liveDemo" />
    </a>
    <p>
       <a href="https://github.com/HyldraZolxy/BeatSaber-Overlay/issues">Report Bug</a>
@@ -105,14 +105,14 @@ To use the Overlay, it is necessary to follow the instructions below to ensure t
 
 3. Open your web browser and write
    ```
-    https://overlay.hyldrazolxy.fr/
+    https://bs-overlay.lyall.lol/
     ```
 4. Click on settings icon to display the setup panel
 
 5. After setting up your overlay, copy the URL with a click on the link button
 
-<img src="https://overlay.hyldrazolxy.fr/preview/settings.png" alt="Setting button" />
-<img src="https://overlay.hyldrazolxy.fr/preview/copyLink.png" alt="Link button" />
+<img src="https://bs-overlay.lyall.lol/preview/settings.png" alt="Setting button" />
+<img src="https://bs-overlay.lyall.lol/preview/copyLink.png" alt="Link button" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
