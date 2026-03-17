@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "nodenext",
+        "target": "esnext",
+        "types": ["jquery"],
+
+        "strict": true,
+        "jsx": "react-jsx",
+        "verbatimModuleSyntax": true,
+        "isolatedModules": true,
+        "noUncheckedSideEffectImports": true,
+        "moduleDetection": "force",
+        "skipLibCheck": true
+    },
+    "include": ["js/**/*.ts"]
+}
