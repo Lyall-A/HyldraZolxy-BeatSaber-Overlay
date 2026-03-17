@@ -12,6 +12,6 @@ export class ScoreSaber {
     // PUBLIC FUNCTION //
     /////////////////////
     async getPlayerInfo(playerId) {
-        return await this._tools.getMethod(Globals.SCORESABER_API_PROXY_URL + "/?playerId=" + playerId);
+        return await this._tools.getMethod(`${Globals.SCORESABER_API_URL}/player/${playerId}/basic`);
     }
 }
